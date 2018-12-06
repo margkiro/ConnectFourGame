@@ -1,0 +1,8 @@
+Algorithm
+
+Task 4:
+
+1. Check each row and column and diagonal
+2. If the other/current player has three in a row in any formation, place the chip in that fourth position
+3. If the other/current player has 2 in a row in any formation and 1 chip skipped one space in the same formation, place chip in that space position
+4. Place chips 3 in a row so that there are spaces at the end of each that would allow for a connect 4 on either end
